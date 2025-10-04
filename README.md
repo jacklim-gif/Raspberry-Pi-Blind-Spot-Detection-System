@@ -32,6 +32,5 @@ A real-time blind spot monitoring system for vehicles using Raspberry Pi. It com
 | Button    | -         | 27     |
 
 ### Installation
-pip install picamera2 ultralytics opencv-python RPi.GPIO numpy
 ```bash
 pip install picamera2 ultralytics opencv-python RPi.GPIO numpy
